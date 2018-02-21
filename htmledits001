@@ -1,0 +1,440 @@
+<p>&nbsp;</p>
+<!-- [if IE 8]>			<html class="ie ie8"> <![endif]-->
+<p>&nbsp;</p>
+<!-- [if IE 9]>			<html class="ie ie9"> <![endif]-->
+<p>&nbsp;</p>
+<!-- [if gt IE 9]><!-->
+<p>&nbsp;</p>
+<!--<![endif]-->
+<p>&nbsp;</p>
+<!-- Meta -->
+<p></p>
+<!-- Mobile Metas -->
+<p></p>
+<!-- Favicon -->
+<p></p>
+<!-- Google Webfont -->
+<p>  </p>
+<!-- CSS -->
+<p>        </p>
+<!-- SKIN -->
+<p></p>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<p></p>
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<p></p>
+<!-- [if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+<p></p>
+<!-- MODERNIZR -->
+<div id="body"><!-- HEADER --><header><!-- Navigation --><nav class="navbar navbar-default navbar-top">
+<div class="container">
+<div class="col-md-12"><!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header page-scroll"><button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> </button> <a class="navbar-brand" href="./index.html">ZSM</a></div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
+<ul class="nav navbar-nav navbar-right">
+<li><a href="./index.html">Home</a></li>
+<li><a class="page-scroll" href="#footer">Contact</a></li>
+<li><a class="page-scroll" href="#Order" target="_blank" rel="noopener">Purchase Now</a></li>
+<li><a class="page-scroll" href="UserManagement/Login.php" target="_blank" rel="noopener">Login</a></li>
+</ul>
+</div>
+<!-- /.navbar-collapse --></div>
+</div>
+</nav></header><!-- INTRO -->
+<section id="intro" class="intro2">
+<div class="overlay">&nbsp;</div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
+<h2>Welcome to Zilla-SnailMail</h2>
+<p>We aim to combine the anonymity of the internet with tangibility and speed of real mail while bring people together.</p>
+<div class="dual-btns"><a class="page-scroll" href="#Order">Purchase Plan</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- INTRO --> <!-- SERVICES -->
+<section id="services">
+<div class="container">
+<div class="row">
+<div class="col-md-4 service-content sc1">
+<h4>Secure</h4>
+<p>Your privacy is key when it comes to communication here at ZSM we take privacy seriously</p>
+</div>
+<div class="col-md-4 service-content sc2">
+<h4>Easy</h4>
+<p>With ZSM the process is so easy it can be combined in 3 Steps. 1 pick your subscription package. 2. Update your preferences 3. Start sending your correspondents</p>
+</div>
+<div class="col-md-4 service-content sc3">
+<h4>Anonomous</h4>
+<p>Have the confidence that what and who you write to is completely anonymous unless you make it known who you are in your correspondents.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- SERVICES --> <!-- INFO BOXES -->
+<section class="info-content">
+<div class="container">
+<div class="content-head">
+<h3>So easy it hurts!!</h3>
+<p>As we mentioned before ZSM is so easy to use there are three steps and you are on your way to communicating and connecting.</p>
+</div>
+<div class="row">
+<div class="col-md-4 ic-inner"><img class="img-responsive" src="images/xtra/1.jpg" alt="" /><center>
+<h4>Step 1</h4>
+<p>In the purchase section of the site pick the best package that meets your needs. If you are a person that loves to write, then the max package is better for you. If you are an excellent communication but do not need all the bells and whisles our teir one package maybe a great fit.</p>
+</center></div>
+<div class="col-md-4 ic-inner"><img class="img-responsive" src="images/xtra/2.jpg" alt="" /><center>
+<h4>Step 2</h4>
+<p>Here is where the fun begins now you can select your preferences, and the ZSM team will use our best robots to pair you with the best person or Alien.</p>
+</center></div>
+<div class="col-md-4 ic-inner"><img class="img-responsive" src="images/xtra/3.jpg" alt="" /><center>
+<h4>Step 3</h4>
+<p>Once the ZSM team has selected your pen pal or pals, you can start sending communications out and repeat.</p>
+</center></div>
+</div>
+</div>
+</section>
+<!-- INFO BOXES --> <!-- INFO BOXES / DUAL -->
+<section class="dual-info">
+<div class="container">
+<div class="col-md-6"><img class="img-responsive" src="images/xtra/Alex.png" alt="" /></div>
+<div class="col-md-6">
+<div class="col-md-9">
+<h4>ZSM CEO</h4>
+<p>The CEO of ZSM believes in communication and going back to our roots of paper communication. Technology has taken us so far but pushed us so far away at the same time slowing down to understand what connection means is what will save us from ourselves.Let's communicate through our soul and not a keyboard.</p>
+<ul class="space40">
+<li>Authentic</li>
+<li>Personal</li>
+<li>Unique</li>
+</ul>
+<a class="btn-main btn-white btn-left" href="#">Learn more about the CEO</a></div>
+</div>
+</div>
+</section>
+<!-- INFO BOXES / DUAL --> <!-- SCREENSHOTS -->
+<section class="shots">
+<div class="container">
+<div class="content-head">
+<h3>Meet the team</h3>
+<p>Behind the letters</p>
+</div>
+<div class="row"><center>
+<div class="col-md-12">
+<div class="shots-slider">
+<div class="shots-thumb"><a class="prettyPhoto" href="images/shots/Alex.png"> <img class="img-responsive" src="images/shots/Alex.png" alt="" /> </a></div>
+<div class="shots-thumb"><a class="prettyPhoto" href="images/shots/char.jpg"> <img class="img-responsive" src="images/shots/char.jpg" alt="" /> </a></div>
+<div class="shots-thumb"><a class="prettyPhoto" href="images/shots/chris.jpg"> <img class="img-responsive" src="images/shots/chris.jpg" alt="" /> </a></div>
+</div>
+</div>
+</center></div>
+</div>
+</section>
+<!-- SCREENSHOTS --> <!-- ABOUT / INFO CONTENT -->
+<div class="wrap-content">
+<div class="container">
+<div class="row">
+<div class="col-md-5">
+<h2>Packages for <br />all users</h2>
+<p class="lead">Here at ZSM, we have created unique packages that will suit any budget while allowing everyone to experience the power of communication.The ZSM team believes in budgeting and getting the best for your buck.</p>
+<div class="clearfix space10">&nbsp;</div>
+</div>
+<div class="col-md-7"><img class="img-responsive" src="images/hord.jpg" alt="" /></div>
+</div>
+</div>
+</div>
+<!-- ABOUT / INFO CONTENT --> <!-- ABOUT / INFO CONTENT -->
+<div class="wrap-content wrap-content1">
+<div class="container">
+<div class="row">
+<div class="col-md-7"><img class="img-responsive" src="images/Anonymous_emblem.svg.png" alt="" /></div>
+<div class="col-md-5">
+<h2>Completly<br />ANONYMOUS</h2>
+<p class="lead">ZSM believes in being anonymous with the growing technology nothing we do anymore is anonymous ZSM wants to change that.Removing the computer from the equation is the first step as well as our secret envelope blocking material even keeps the postman out.The only person that knows whats in that letter is you and the aliens from planet rambulox.</p>
+<div class="clearfix space20">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+<!-- ABOUT / INFO CONTENT --> <!-- TESTIMONIALS -->
+<div class="testimonials">
+<div class="container">
+<div class="row">
+<div id="quote-slider" class="owl-carousel owl-theme">
+<div class="item">
+<div class="col-md-7">
+<div class="quote-info">
+<p>Who the hell sent me this? This is so awesome i want more!!!!</p>
+<cite>- ANONYMOUSANONYMOUS</cite></div>
+</div>
+<div class="col-md-5"><img class="img-responsive" src="images/quote/1.png" alt="" /></div>
+</div>
+<div class="item">
+<div class="col-md-5"><img class="img-responsive" src="images/quote/2.png" alt="" /></div>
+<div class="col-md-7">
+<div class="quote-info">
+<p>OMG i got a drawing it's so good!</p>
+<cite>- ANONYMOUSANONYMOUS</cite></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- TESTIMONIALS --> <!-- NEWSLETTER -->
+<div class="home-subscribe">
+<div class="container">
+<div class="row">
+<h6>Subscribe to our newsletter to receive latest news &amp; updates from teh ZSM team</h6>
+<div class="intro-newsletter"><form id="invite" class="subscribe" action="php/subscribe.php" method="POST"><input id="address" class="e-mail" name="email" type="email" placeholder="Email Address here..." data-validate="validate(required, email)" /> <button type="submit"></button></form><span id="result"></span></div>
+</div>
+</div>
+</div>
+<!-- PRICING -->
+<div id="Order" class="pricing">
+<div class="container">
+<div class="row">
+<div class="content-head content-head-lite">
+<h3>Choose your best plan</h3>
+<p>Pick the best Zilla plan for your needs remember you can always change</p>
+</div>
+</div>
+<div class="row"><!-- Pricing Plan - 1 -->
+<div class="col-md-3">
+<div class="panel panel-default text-center">
+<div class="panel-heading"><strong>Free</strong></div>
+<div class="panel-body">
+<h3 class="panel-title price">$0<span class="price-cents">00</span></h3>
+</div>
+<ul class="list-group">
+<li class="list-group-item">1 Letter/Yr</li>
+<li class="list-group-item"><a class="btn-main" href="UserManagement/join.php?Free">Sign Up Now!</a></li>
+</ul>
+</div>
+</div>
+<!-- Pricing Plan - 2 -->
+<div class="col-md-3">
+<div class="panel panel-default text-center">
+<div class="panel-heading"><strong>The Basics</strong></div>
+<div class="panel-body">
+<h3 class="panel-title price">$7<span class="price-cents">99</span></h3>
+</div>
+<ul class="list-group">
+<li class="list-group-item">5 Letters Month</li>
+<li class="list-group-item">2 Free item Yr</li>
+<li class="list-group-item"><a class="btn-main" href="UserManagement/join.php?TheBasics">Sign Up Now!</a></li>
+</ul>
+</div>
+</div>
+<!-- Pricing Plan - 3 -->
+<div class="col-md-3">
+<div class="panel panel-default text-center">
+<div class="panel-heading"><strong>The average Joe <span class="label label-success">Best Value!</span></strong></div>
+<div class="panel-body">
+<h3 class="panel-title price">$15<span class="price-cents">99</span></h3>
+</div>
+<ul class="list-group">
+<li class="list-group-item">8 Letters Month</li>
+<li class="list-group-item">4 Free items Yr</li>
+<li class="list-group-item">Extra Security</li>
+<li class="list-group-item">Random ink</li>
+<li class="list-group-item"><a class="btn-main" href="UserManagement/join.php?Joe">Sign Up Now!</a></li>
+</ul>
+</div>
+</div>
+<!-- Pricing Plan - 4 -->
+<div class="col-md-3">
+<div class="panel panel-default text-center">
+<div class="panel-heading"><strong>The Duke </strong></div>
+<div class="panel-body">
+<h3 class="panel-title price">$55<span class="price-cents">99</span></h3>
+</div>
+<ul class="list-group">
+<li class="list-group-item">13 letters month</li>
+<li class="list-group-item">12 Free Items</li>
+<li class="list-group-item">Extra Security</li>
+<li class="list-group-item">Custom Ink</li>
+<li class="list-group-item">Personal Letterheads</li>
+<li class="list-group-item"><a class="btn-main" href="UserManagement/join.php?Duke">Sign Up Now!</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- PRICING --> <!-- SERVICES / 2 -->
+<section id="services2">
+<div class="container">
+<div class="row">
+<div class="content-head">
+<h3>How it works</h3>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="sc2-inner">
+<h4>Make an Account</h4>
+<p>Make an account and Sign Up for a package.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="sc2-inner">
+<h4>The Match</h4>
+<p>Match up with a Penpals that match your preferences.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="sc2-inner">
+<h4>Send your letter</h4>
+<p>Send your letter to teh Zilla center P.O. Box and Zilla will handle the rest.</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="sc2-inner">
+<h4>Recive Letter</h4>
+<p>Get a reply back safely and securely through the Zilla service.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="sc2-inner">
+<h4>Repeat Steps</h4>
+<p>Then repeat steps 3 and 4 as much as you like.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="sc2-inner">
+<h4>Shop</h4>
+<p>Shop teh awesome zilla sore for great itemsto use in your correspondents.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- SERVICES / 2 --> <!-- FAQ CONTENT -->
+<div class="faq-content">
+<div class="container">
+<div class="row">
+<div class="content-head">
+<h3>Frequently Asked Questions</h3>
+<p>OK,i guese we can do this!</p>
+</div>
+<div class="faq-wrap">
+<div class="col-md-6">
+<div id="accordion" class="panel-group">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a href="#collapseOne" data-toggle="collapse" data-parent="#accordion"> 1.Can we type our letters? </a></h4>
+</div>
+<div id="collapseOne" class="panel-collapse collapse in">
+<div class="panel-body">I want to start off by saying great question and now let's get to the real answer to that. OK, so you want to type a letter and send it in the mail you can and we wont stop you but DUDE why not just use email google does this for free already. But if you want a unique and exciting way to communicate use Zilla Snail Mail.</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a href="#collapseTwo" data-toggle="collapse" data-parent="#accordion"> 2.Can i hand deliver my letter? </a></h4>
+</div>
+<div id="collapseTwo" class="panel-collapse collapse">
+<div class="panel-body">So you want to hand deliver your letter if that's the case you must use your house and buggy to get there and sing once you make it to your destination.Oh, i almost forgot to answer that NO....</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title"><a href="#collapseThree" data-toggle="collapse" data-parent="#accordion"> 3.Can we send pictures? </a></h4>
+</div>
+<div id="collapseThree" class="panel-collapse collapse">
+<div class="panel-body">I want to say yes here since that is a type of communication, but anything absurd I would be careful what if your mom signed up for the service she would not want to see all of that.Hmmm, maybe she already saw all of that so sure send pics if you like.</div>
+<div class="panel-body">&nbsp;</div>
+<div class="panel-body">
+<p>WhaT IF SOMEONE IS A JERK?</p>
+<p><br />First, do not reply to them Feeding the troll never goes well. After you have that down, send us an email at zillasnailmail@gmail.com and let us know who is being a jerk. We are testing out a 3 strike rule.</p>
+<p>Do you guys read the letters I send?</p>
+<p><br />We reserve the right to open the letters you send to our P.O. Box. To provide you with anonymity we have to have the ability to repackage the letters. As well as stop abuse we may have to investigate letter in the future but as a rule of thumb we find it rude to read correspondence between people.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 video-wrap">
+<div class="video"><img style="width: 600px; height: 400px;" src="images/questions.jpg" alt="Questions" /></div>
+</div>
+<div class="clear">&nbsp;</div>
+</div>
+<!-- Faq wrap content end --></div>
+</div>
+<!-- /.container --></div>
+<!-- FAQ CONTENT --> <!-- WRAP INFO -->
+<div class="wrap">
+<div class="container">
+<div class="col-md-12">
+<h3>Try the free service</h3>
+<p>We know that making a decision is hard so try our free service and see how you like it I guarantee that we treat all plans and letters with the most excellent care..</p>
+<a href="#"><span data-hover="Register. Go Risk Free">Try our free service</span></a> <em>No credit card needed</em></div>
+</div>
+</div>
+<!-- WRAP INFO --> <!-- FOOTER --><footer id="footer">
+<div class="container">
+<div class="row"><!-- Contact Info -->
+<div id="contact-info" class="col-md-5">
+<h5>Contact Info</h5>
+<ul class="contact-info">
+<li>+1(000)-000-0000</li>
+<li>info@ZSM.com</li>
+<li>P.O Box 13 Greenville Tx, 75403</li>
+<li>
+<div class="f-social">&nbsp;</div>
+</li>
+</ul>
+</div>
+<!-- Contact Form -->
+<div class="col-md-7">
+<h5>Shoot a message!</h5>
+<form id="contactForm" action="php/contact.php" method="post">
+<div class="row">
+<div class="col-md-6"><input id="senderName" name="senderName" required="required" type="text" placeholder="Name" /> <input id="senderEmail" name="senderEmail" required="required" type="email" placeholder="Email address" /></div>
+<div class="col-md-6"><textarea id="message" name="message" rows="4" placeholder="Message"></textarea></div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<p>*Note: Email Address will not be shared</p>
+</div>
+<div class="col-md-6"><button class="btn-main pull-right" type="submit">Send</button></div>
+</div>
+</form>
+<div id="sendingMessage" class="statusMessage">
+<p>Sending your message. Please wait...</p>
+</div>
+<div id="successMessage" class="successmessage">
+<p>Thanks for sending your message! We'll get back to you shortly.</p>
+</div>
+<div id="failureMessage" class="errormessage">
+<p>There was a problem sending your message. Please try again.</p>
+</div>
+<div id="incompleteMessage" class="statusMessage">
+<p>Please complete all the fields in the form before sending.</p>
+</div>
+</div>
+</div>
+</div>
+</footer><!-- FOOTER --> <!-- FOOTER / COPYRIGHT -->
+<div class="footer-copy">
+<div class="container">
+<div class="row">
+<div class="col-md-7">
+<p>&copy; 2017. HAJ Production. All rights reserved. Designed by Chris Jones<a href="http://joneschris.com" target="_blank" rel="noopener">http://joneschris.com</a>.</p>
+</div>
+<div class="col-md-5"><a class="backtotop page-scroll" href="#page-top">Back to top &Delta;</a></div>
+</div>
+</div>
+</div>
+<!-- FOOTER / COPYRIGHT --></div>
+<!-- Javascript -->
